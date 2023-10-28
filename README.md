@@ -12,7 +12,12 @@ lado cliente al servidor.
 
 ## Requisitos
 
-1. Implementa el mismo comportamiento de la demo, tal que cada vez que hagas clic en el botón __Get Joke!__ recupere un chiste aleatorio de la API https://api.chucknorris.io/jokes/random y lo muestre en el elemento del DOM adecuado
+0. Preguntas de autoevaluación:
+   A. ¿Cuál es la URL exacta que me permite obtener un chiste?
+   B. ¿Qué tipo de petición HTTP debemos realizar para obtener la información? ¿GET o POST?
+   C. ¿Que tipo de dato JavaScript devuelve la respuesta de la API?
+   D. ¿Cuál es la propiedad de este objeto que contiene el texto del chiste?
+2. Implementa el mismo comportamiento de la demo, tal que cada vez que hagas clic en el botón __Get Joke!__ recupere un chiste aleatorio de la API https://api.chucknorris.io/jokes/random y lo muestre en el elemento del DOM adecuado
 
 ## Bonus
 
