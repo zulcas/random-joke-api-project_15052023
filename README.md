@@ -21,7 +21,7 @@ lado cliente al servidor.
 
 ## Bonus
 
-1. Crea un selector de manera que puedas escoger la categoría del chiste. Revisa la documentación oficial y descubrirás que pueden invocar a la API con un parámetro para que te de un _chiste_ de una categoría en concreto
+1. Crea un selector de manera que puedas escoger la categoría del chiste. Revisa la documentación oficial y descubrirás que pueden invocar a la API con un parámetro para que te de un _chiste_ de una categoría en concreto. Haz [clic aquí](https://omiras.github.io/random-joke-api-project/) para ver una demo, pero revisa también como tienes que conformar la URL de la petición para obtener el chiste en función de la categoría.
 
 ![chueck](https://github.com/omiras/random-joke-api-project/assets/3286458/983c0774-4a74-48e8-9f91-c10ac2942349)
 
